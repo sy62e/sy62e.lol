@@ -1,0 +1,414 @@
+.btn-gradient-blue {
+    color: #ffffff !important;
+    font-weight: bold;
+    font-size: 19px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.6);
+    background-color: #0088cc;
+    background-image: linear-gradient(to bottom, #00a2ed, #0088cc);
+    background-repeat: repeat-x;
+    border: 1px solid #0077b3;
+    border-bottom-color: #005580;
+    border-radius: 6px;
+    padding: 14px 28px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    line-height: 1.33;
+    transition: none !important;
+}
+
+.btn-gradient-blue:hover {
+    background-color: #0077b3;
+    background-image: linear-gradient(to bottom, #0088cc, #0077b3);
+    background-position: 0;
+}
+
+.btn-gradient-gray {
+    color: #333333 !important;
+    font-weight: bold;
+    font-size: 19px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+    background-color: #f5f5f5;
+    background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+    background-repeat: repeat-x;
+    border: 1px solid #cccccc;
+    border-bottom-color: #b3b3b3;
+    border-radius: 6px;
+    padding: 14px 28px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    line-height: 1.33;
+    transition: none !important;
+}
+
+.btn-gradient-gray:hover {
+    background-color: #e6e6e6;
+    background-image: linear-gradient(to bottom, #e6e6e6, #d9d9d9);
+    background-position: 0;
+}
+
+.btn-sm-classic {
+    font-size: 13px;
+    padding: 4px 10px;
+    border-radius: 4px;
+}
+
+.twitter-bird {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    vertical-align: middle;
+    fill: currentColor;
+}
+
+.btn-sm-classic .twitter-bird {
+    width: 14px;
+    height: 14px;
+}
+
+.navbar-classic {
+    background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+    background-repeat: repeat-x;
+    border-bottom: 1px solid #b3b3b3;
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+}
+
+.navbar-brand-engraved {
+    font-weight: 300 !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444444 !important;
+    text-shadow: 0 1px 0 #ffffff;
+}
+
+.hero-classic {
+    background-color: #fafafa;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.title-apple-thin {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 100 !important;
+    letter-spacing: -1px;
+    color: #333333;
+}
+
+.card-classic {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+}
+
+.card-header-placeholder {
+    background-color: #eeeeee;
+    border-bottom: 1px solid #dddddd;
+    text-align: center;
+    padding: 40px 0;
+    color: #666666;
+    font-size: 14px;
+}
+
+.footer-classic {
+    background-color: #222222;
+    border-top: 1px solid #111111;
+    color: #999999;
+}
+.btn-gradient-blue {
+    color: #ffffff !important;
+    font-weight: bold;
+    font-size: 19px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.6);
+    background-color: #0088cc;
+    background-image: linear-gradient(to bottom, #00a2ed, #0088cc);
+    background-repeat: repeat-x;
+    border: 1px solid #0077b3;
+    border-bottom-color: #005580;
+    border-radius: 6px;
+    padding: 14px 28px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    line-height: 1.33;
+    transition: none !important;
+}
+
+.btn-gradient-blue:hover {
+    background-color: #0077b3;
+    background-image: linear-gradient(to bottom, #0088cc, #0077b3);
+    background-position: 0;
+}
+
+.btn-gradient-gray {
+    color: #333333 !important;
+    font-weight: bold;
+    font-size: 19px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+    background-color: #f5f5f5;
+    background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+    background-repeat: repeat-x;
+    border: 1px solid #cccccc;
+    border-bottom-color: #b3b3b3;
+    border-radius: 6px;
+    padding: 14px 28px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    line-height: 1.33;
+    transition: none !important;
+}
+
+.btn-gradient-gray:hover {
+    background-color: #e6e6e6;
+    background-image: linear-gradient(to bottom, #e6e6e6, #d9d9d9);
+    background-position: 0;
+}
+
+.btn-sm-classic {
+    font-size: 13px;
+    padding: 4px 10px;
+    border-radius: 4px;
+}
+
+.twitter-bird {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    vertical-align: middle;
+    fill: currentColor;
+}
+
+.btn-sm-classic .twitter-bird {
+    width: 14px;
+    height: 14px;
+}
+
+.navbar-classic {
+    background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+    background-repeat: repeat-x;
+    border-bottom: 1px solid #b3b3b3;
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+}
+
+.navbar-brand-engraved {
+    font-weight: 300 !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444444 !important;
+    text-shadow: 0 1px 0 #ffffff;
+}
+
+.hero-classic {
+    background-color: #fafafa;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.title-apple-thin {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 100 !important;
+    letter-spacing: -1px;
+    color: #333333;
+}
+
+.card-classic {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+}
+
+.card-header-placeholder {
+    background-color: #eeeeee;
+    border-bottom: 1px solid #dddddd;
+    text-align: center;
+    padding: 40px 0;
+    color: #666666;
+    font-size: 14px;
+}
+
+.footer-classic {
+    background-color: #222222;
+    border-top: 1px solid #111111;
+    color: #999999;
+}
+
+.btn-gradient-blue {
+    color: #ffffff !important;
+    font-weight: bold;
+    font-size: 19px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.6);
+    background-color: #0088cc;
+    background-image: linear-gradient(to bottom, #00a2ed, #0088cc);
+    background-repeat: repeat-x;
+    border: 1px solid #0077b3;
+    border-bottom-color: #005580;
+    border-radius: 6px;
+    padding: 14px 28px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    line-height: 1.33;
+    transition: none !important;
+}
+
+.btn-gradient-blue:hover {
+    background-color: #0077b3;
+    background-image: linear-gradient(to bottom, #0088cc, #0077b3);
+    background-position: 0;
+}
+
+.btn-gradient-gray {
+    color: #333333 !important;
+    font-weight: bold;
+    font-size: 19px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+    background-color: #f5f5f5;
+    background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+    background-repeat: repeat-x;
+    border: 1px solid #cccccc;
+    border-bottom-color: #b3b3b3;
+    border-radius: 6px;
+    padding: 14px 28px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    line-height: 1.33;
+    transition: none !important;
+}
+
+.btn-gradient-gray:hover {
+    background-color: #e6e6e6;
+    background-image: linear-gradient(to bottom, #e6e6e6, #d9d9d9);
+    background-position: 0;
+}
+
+.btn-sm-classic {
+    font-size: 13px;
+    padding: 4px 10px;
+    border-radius: 4px;
+}
+
+.twitter-bird {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    vertical-align: middle;
+    fill: currentColor;
+}
+
+.btn-sm-classic .twitter-bird {
+    width: 14px;
+    height: 14px;
+}
+
+.navbar-classic {
+    background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+    background-repeat: repeat-x;
+    border-bottom: 1px solid #b3b3b3;
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+}
+
+.navbar-brand-engraved {
+    font-weight: 300 !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444444 !important;
+    text-shadow: 0 1px 0 #ffffff;
+}
+
+.hero-classic {
+    background-color: #fafafa;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.title-apple-thin {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 100 !important;
+    letter-spacing: -1px;
+    color: #333333;
+}
+
+.card-classic {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.card-header-placeholder {
+    background-color: #eeeeee;
+    border-bottom: 1px solid #dddddd;
+    height: 120px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.card-header-placeholder img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(2.2);
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    max-width: none !important;
+}
+
+.what-i-use-section {
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+    margin-bottom: 4rem;
+}
+
+.what-i-use-row {
+    display: flex;
+    align-items: center;
+    gap: 2.5rem;
+    padding: 3rem 0;
+}
+
+.what-i-use-left {
+    flex-direction: row;
+}
+
+.what-i-use-right {
+    flex-direction: row-reverse;
+}
+
+.what-i-use-terminal {
+    justify-content: space-between;
+}
+
+.what-i-use-img {
+    width: 100%;
+    max-width: 420px;
+    border-radius: 12px;
+    object-fit: cover;
+}
+
+.what-i-use-text {
+    max-width: 560px;
+}
+
+@media (max-width: 767px) {
+    .what-i-use-row {
+        flex-direction: column;
+        text-align: left;
+    }
+    .what-i-use-img {
+        max-width: 100%;
+    }
+}
+
+.footer-classic {
+    background-color: #222222;
+    border-top: 1px solid #111111;
+    color: #999999;
+}
