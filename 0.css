@@ -426,10 +426,11 @@
     box-shadow: 0 1px 0 rgba(27, 31, 36, 0.04);
 }
 
-.tech-badge svg {
-    width: 14px;
-    height: 14px;
+.tech-badge-icon {
+    width: 16px;
+    height: 16px;
     flex-shrink: 0;
+    object-fit: contain;
 }
 
 .tech-badge-js {
