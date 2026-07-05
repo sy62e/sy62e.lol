@@ -412,3 +412,15 @@
     border-top: 1px solid #111111;
     color: #999999;
 }
+
+.badge-tech {
+    display: inline-block;
+    padding: 7px 12px;
+    border-radius: 999px;
+    border: 1px solid #d0d7de;
+    background: #ffffff;
+    color: #4b5563;
+    font-size: 0.85rem;
+    font-weight: 600;
+    box-shadow: 0 1px 0 rgba(27, 31, 36, 0.04);
+}
