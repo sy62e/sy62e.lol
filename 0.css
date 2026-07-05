@@ -413,14 +413,39 @@
     color: #999999;
 }
 
-.badge-tech {
-    display: inline-block;
+.tech-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
     padding: 7px 12px;
     border-radius: 999px;
-    border: 1px solid #d0d7de;
-    background: #ffffff;
-    color: #4b5563;
+    border: 1px solid rgba(0, 0, 0, 0.08);
     font-size: 0.85rem;
-    font-weight: 600;
+    font-weight: 700;
+    letter-spacing: 0.01em;
     box-shadow: 0 1px 0 rgba(27, 31, 36, 0.04);
+}
+
+.tech-badge svg {
+    width: 14px;
+    height: 14px;
+    flex-shrink: 0;
+}
+
+.tech-badge-js {
+    background: #f7df1e;
+    color: #000000;
+    border-color: #e0c400;
+}
+
+.tech-badge-html {
+    background: #e34f26;
+    color: #ffffff;
+    border-color: #c63d1f;
+}
+
+.tech-badge-css {
+    background: #1572b6;
+    color: #ffffff;
+    border-color: #0d5a92;
 }
