@@ -413,40 +413,29 @@
     color: #999999;
 }
 
-.tech-badge {
+.tech-icon {
     display: inline-flex;
     align-items: center;
-    gap: 0.45rem;
-    padding: 7px 12px;
-    border-radius: 999px;
-    border: 1px solid rgba(0, 0, 0, 0.08);
-    font-size: 0.85rem;
-    font-weight: 700;
-    letter-spacing: 0.01em;
-    box-shadow: 0 1px 0 rgba(27, 31, 36, 0.04);
+    justify-content: center;
+    width: 24px;
+    height: 24px;
 }
 
 .tech-badge-icon {
-    width: 12px;
-    height: 12px;
+    width: 16px;
+    height: 16px;
     flex-shrink: 0;
     object-fit: contain;
 }
 
-.tech-badge-js {
-    background: #f7df1e;
-    color: #000000;
-    border-color: #e0c400;
+.tech-icon-js {
+    opacity: 0.95;
 }
 
-.tech-badge-html {
-    background: #e34f26;
-    color: #ffffff;
-    border-color: #c63d1f;
+.tech-icon-html {
+    opacity: 0.95;
 }
 
-.tech-badge-css {
-    background: #1572b6;
-    color: #ffffff;
-    border-color: #0d5a92;
+.tech-icon-css {
+    opacity: 0.95;
 }
